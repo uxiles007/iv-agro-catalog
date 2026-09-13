@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "2026.09.13.1",
+  "generatedAt": "2026-09-13T00:00:00Z",
+  "minimumAppVersion": 1,
+  "files": [
+    {
+      "name": "seed-register.json",
+      "size": 3037852,
+      "sha256": "5c5d7bfa19011955323aca7e46a11939787b80a0cbc80cc6137043144e4c7c22",
+      "url": "https://raw.githubusercontent.com/uxiles007/iv-agro-catalog/main/seed-register.json"
+    },
+    {
+      "name": "agrochemistry-catalog.json",
+      "size": 11109755,
+      "sha256": "f3dc5af58e2980ba3f627bd309243320da1d02e15741ba63b0a70a13dd9fc4ac",
+      "url": "https://raw.githubusercontent.com/uxiles007/iv-agro-catalog/main/agrochemistry-catalog.json"
+    },
+    {
+      "name": "agrochemistry-adjuvants.json",
+      "size": 9585,
+      "sha256": "0d577ac1937b3bdb2417867218327664c9fbc537bb6e30b6b27f898ef9a4a8ec",
+      "url": "https://raw.githubusercontent.com/uxiles007/iv-agro-catalog/main/agrochemistry-adjuvants.json"
+    },
+    {
+      "name": "sunflower-catalog.json",
+      "size": 737570,
+      "sha256": "04ea35cbdc47009631fa153e5d57936740ef66300002b5d762884175b3e3c531",
+      "url": "https://raw.githubusercontent.com/uxiles007/iv-agro-catalog/main/sunflower-catalog.json"
+    },
+    {
+      "name": "catalog-provenance.json",
+      "size": 4173,
+      "sha256": "1e546b9607645c319de5e98c5184ed35a6e906418a31fd44283a038bac1a6b99",
+      "url": "https://raw.githubusercontent.com/uxiles007/iv-agro-catalog/main/catalog-provenance.json"
+    }
+  ]
+}
