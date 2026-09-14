@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026.09.14.1",
+  "catalogVersion": "2026.09.14.2",
   "generatedAt": "2026-09-14T00:00:00Z",
   "minimumAppVersion": 1,
   "files": [
@@ -18,8 +18,8 @@
     },
     {
       "name": "agrochemistry-adjuvants.json",
-      "size": 9585,
-      "sha256": "0d577ac1937b3bdb2417867218327664c9fbc537bb6e30b6b27f898ef9a4a8ec",
+      "size": 9584,
+      "sha256": "772c52d0e93e2ad96ea628a7eb7e23ae6ad021e162276ce580261e03c837f01b",
       "url": "https://raw.githubusercontent.com/uxiles007/iv-agro-catalog/main/agrochemistry-adjuvants.json"
     },
     {
